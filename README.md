@@ -1,4 +1,4 @@
-**Projeto: qa-login-tests-saucedemo**
+**Projeto: qa-login-tests-saucedemo**  qa_metrics_animation.gif
 
 ```md
 # 🧪 Projeto de Testes Manuais – Login & Recuperação de Senha (SauceDemo)
