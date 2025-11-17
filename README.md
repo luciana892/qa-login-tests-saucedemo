@@ -448,20 +448,7 @@ Este checklist foi criado para garantir que todas as etapas necessárias da exec
 
 ---
 
-## ✔️ Finalização
 
-* [ ] README revisado e atualizado
-* [ ] Última verificação de ortografia e organização
-* [ ] Projeto pronto para apresentação em portfólio
-
----
-
-Checklist criado por **Luciana Valeriana** – QA em formação.
-
-
-Pronto — gerei um código Python que produz um **gráfico animado** (linha) mostrando métricas de QA simuladas ao longo do tempo: **Total**, **Passed** e **Failed**.
-
-O arquivo foi executado aqui e exibiu a animação interativa.
 
 
 
