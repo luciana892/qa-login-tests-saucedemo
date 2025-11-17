@@ -447,6 +447,49 @@ Este checklist foi criado para garantir que todas as etapas necessárias da exec
 * [ ] Commitar alterações no GitHub com mensagens claras
 
 ---
+# 🧪 Projeto de Testes Manuais – Login & Recuperação de Senha (SauceDemo)
+
+Este repositório demonstra práticas profissionais de QA em testes manuais, incluindo planejamento, casos de teste, execução, relatório de bugs e checklist de execução.
+
+---
+
+## 🎥 Animação das Métricas de QA
+
+Acompanhe abaixo a animação gerada automaticamente a partir da simulação de métricas de testes:
+
+![QA Metrics Animation](qa_metrics_animation.gif)
+
+> O arquivo `qa_metrics_animation.gif` deve estar na raiz do repositório para exibição correta.
+
+---
+
+## 🎯 Objetivo
+
+Validar o comportamento das funcionalidades de **Login**, **Logout**, **Mensagens de Erro** e **Recuperação de Senha (simulada)** do SauceDemo.
+
+Site analisado: [https://www.saucedemo.com/](https://www.saucedemo.com/)
+
+---
+
+## 📦 Conteúdo do Repositório
+
+* Plano de Teste
+* Casos de Teste
+* Evidências
+* Relatório Final de Bugs
+* Checklist de Execução
+* GIF de Métricas animadas (gerado via Python)
+
+---
+
+## 👤 Autor
+
+Criado por **Luciana Valeriana** – QA em formação.
+
+
+
+
+
 
 
 
